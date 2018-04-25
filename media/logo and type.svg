@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="349px" height="50px" viewBox="0 0 349 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="JH">
+                <g id="Group">
+                    <rect id="Rectangle" stroke="#040404" stroke-width="2" x="1" y="1" width="48" height="48" rx="8"></rect>
+                    <text id="JH" font-family="MarkerFelt-Thin, Marker Felt" font-size="50" font-weight="300" fill="#4A4A4A">
+                        <tspan x="1" y="44">JH</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="James-Hannan-|-Web-D" font-family="MarkerFelt-Thin, Marker Felt" font-size="24" font-weight="300" fill="#4A4A4A">
+                <tspan x="53" y="32">James Hannan | Web Developer</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
