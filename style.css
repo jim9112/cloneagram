@@ -1,17 +1,39 @@
-* {
+/* * {
     border: solid 2px red;
+} */
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-bottom: solid 2px black;
+    background-color: white; 
+    z-index: 1;
+}
+.card {
+    margin-bottom: 15px;
+}
+.card-header {
+    display: flex;
+    padding: 10px;
 }
 
-nav {
-    background-color: white;
-    position: fixed; 
+.card-header img {
+    margin-right: 20px;
+    height: 20px;
+    width: 20px;
 }
-
 .feed {
     background-color: #fafafae8;
+    margin-top: 84px;
 }
 .sticky {
     position: fixed;
     top: 0;
     width: 100%
+  }
+  .side-panel {
+      position: fixed;
+      margin-top: 84px;
   }
